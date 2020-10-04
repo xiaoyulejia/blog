@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xylj.tk</id>
     <title>小娱乐家的博客</title>
-    <updated>2020-09-12T04:20:46.466Z</updated>
+    <updated>2020-10-04T15:29:36.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xylj.tk"/>
     <link rel="self" href="https://xylj.tk/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://xylj.tk/images/avatar.png</logo>
     <icon>https://xylj.tk/favicon.ico</icon>
     <rights>All rights reserved 2020, 小娱乐家的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[资源总和-刷机]]></title>
+        <id>https://xylj.tk/post/2020-10-04-资源总和-刷机/</id>
+        <link href="https://xylj.tk/post/2020-10-04-资源总和-刷机/">
+        </link>
+        <updated>2020-10-03T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[资源总和]]></title>
         <id>https://xylj.tk/post/2020-06-24-资源总和/</id>
