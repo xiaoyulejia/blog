@@ -6,7 +6,7 @@
 
 <title>资源总和-刷机 | 小娱乐家的博客</title>
 
-<link rel="shortcut icon" href="https://xylj.tk/favicon.ico?v=1607824753792">
+<link rel="shortcut icon" href="https://xylj.tk/favicon.ico?v=1610196731950">
 
 <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://xylj.tk/styles/main.css">
@@ -84,7 +84,7 @@
             
         </div>
         <div style="text-align: center">
-            <form id="gridea-search-form" data-update="1607824753792" action="/search/index.html"><input
+            <form id="gridea-search-form" data-update="1610196731950" action="/search/index.html"><input
                     class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="在这里搜索哦！" />
             </form>
         </div>
@@ -199,6 +199,10 @@
 <blockquote>
 <p><a href="https://xiaoyulejia.lanzous.com/iuawxh6eevc">ManagerR-4.5.7.4 - Unoffical</a></p>
 </blockquote>
+<p>EdXposed ManagerR-4.5.6美化版(Magisk)</p>
+<blockquote>
+<p><a href="https://xiaoyulejia.lanzous.com/iSOZqk77qkf">ManagerR-4.5.6 - Unoffical</a></p>
+</blockquote>
 <h2 id="原生系统配置文件">原生系统配置文件</h2>
 <p>系统桌面配置</p>
 <blockquote>
@@ -208,6 +212,32 @@
 <blockquote>
 <p><a href="https://xiaoyulejia.lanzous.com/iTPFHj3g5yh">Google相机</a></p>
 </blockquote>
+<h2 id="rec分区名称详解">Rec分区名称详解</h2>
+<p>ab设备后面会以_a和_b结尾，例如：boot_a &amp; boot_b &amp; system_a &amp; system_b……</p>
+<p>recovery<br>
+在正常分区或内核boot分区被破坏，不能正常启动时，可以进入此分区进行恢复，他相当与一个简易的OS或blos，可以认为是一个boot分区的替代品，通过他可以让我们在这一分区进行备份维护和恢复和刷机，我们通常刷的三方TWRP就是刷入到此分区，通过长按电源键和音量+进入</p>
+<p>boot<br>
+负责启动检验工作，例如我们常用的Magisk就是修改的boot.img来达到启动时注入ROOT到系统，此分区也叫内核分区，一旦损坏会无法开机，没有recovery分区的设备recovery分区也在这里面</p>
+<p>system<br>
+整个安卓系统和系统预装app，对应的手机目录就是/system开头的目录，一旦更改系统文件不正确就会无法开机</p>
+<p>product &amp; oem &amp; vendor<br>
+设备制造商会自定义系统映像，以实施自己的功能并满足运营商的要求</p>
+<p>userdata &amp; data<br>
+就是用户的数据分区，所有三方软件都在这个分区，对应的手机目录就是/data，当前其中也包含内部储存数据</p>
+<p>modem  &amp; radio<br>
+就是用户的基带分区，一旦损坏会无法进行通讯</p>
+<p>cache<br>
+安卓系统缓存区，他保存系统最常访问的数据和应用程序。擦除这个分区，不会影响个人数据，只是删除了这个分区中已经保存的缓存内容，缓存内容会在后续手机使用过程中重新自动生成。</p>
+<p>splash 和 logo<br>
+安卓的第一屏开机图片和FASTBOOT模式下图片和系统损坏图片等</p>
+<p>persist<br>
+传感器分区，一旦损坏会导致各种问题</p>
+<p>dtbo<br>
+一些屏幕刷新率超频软件超频就是改的这个分区</p>
+<p>vbmeta*<br>
+AVB/DM启动验证分区</p>
+<p>misc<br>
+这个分区包括了一些杂项内容：比如一些系统设置和系统功能启用禁用设置。这些设置包括CID(运营商或区域识别码）、USB设置和一些硬件设置等等。这是一个很重要的分区，如果此分区损坏或者部分数据丢失，手机的一些特定功能可能不能正常工作。</p>
 
                 </div>
             </article>

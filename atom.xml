@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xylj.tk</id>
     <title>小娱乐家的博客</title>
-    <updated>2020-12-13T02:11:00.021Z</updated>
+    <updated>2021-01-09T12:52:31.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xylj.tk"/>
     <link rel="self" href="https://xylj.tk/atom.xml"/>
     <subtitle>&lt;div id=&quot;hitokoto&quot;&gt;&lt;script&gt;hitokoto()&lt;/script&gt;&lt;/div&gt;</subtitle>
     <logo>https://xylj.tk/images/avatar.png</logo>
     <icon>https://xylj.tk/favicon.ico</icon>
-    <rights>All rights reserved 2020, 小娱乐家的博客</rights>
+    <rights>All rights reserved 2021, 小娱乐家的博客</rights>
     <entry>
         <title type="html"><![CDATA[资源总和-刷机]]></title>
         <id>https://xylj.tk/post/2020-10-04-资源总和-刷机/</id>
