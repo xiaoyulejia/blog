@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://x.yzzi.icu</id>
+    <title>小娱乐家的博客</title>
+    <updated>2025-07-29T02:22:32.101Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://x.yzzi.icu"/>
+    <link rel="self" href="https://x.yzzi.icu/atom.xml"/>
+    <subtitle>&lt;div id=&quot;hitokoto&quot;&gt;&lt;script&gt;hitokoto()&lt;/script&gt;&lt;/div&gt;</subtitle>
+    <logo>https://x.yzzi.icu/images/avatar.png</logo>
+    <icon>https://x.yzzi.icu/favicon.ico</icon>
+    <rights>All rights reserved 2025, 小娱乐家的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[刷机-重置版]]></title>
+        <id>https://x.yzzi.icu/post/LSgnONlO3P/</id>
+        <link href="https://x.yzzi.icu/post/LSgnONlO3P/">
+        </link>
+        <updated>2025-05-15T05:48:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新电脑看这里]]></title>
+        <id>https://x.yzzi.icu/post/rl-3yMuUh/</id>
+        <link href="https://x.yzzi.icu/post/rl-3yMuUh/">
+        </link>
+        <updated>2022-07-02T10:10:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[资源总和-刷机]]></title>
+        <id>https://x.yzzi.icu/post/2020-10-04-资源总和-刷机/</id>
+        <link href="https://x.yzzi.icu/post/2020-10-04-资源总和-刷机/">
+        </link>
+        <updated>2020-10-03T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[资源总和]]></title>
+        <id>https://x.yzzi.icu/post/2020-06-24-资源总和/</id>
+        <link href="https://x.yzzi.icu/post/2020-06-24-资源总和/">
+        </link>
+        <updated>2020-06-23T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何正确的上网课]]></title>
+        <id>https://x.yzzi.icu/post/2020-03-30-如何正确的上网课/</id>
+        <link href="https://x.yzzi.icu/post/2020-03-30-如何正确的上网课/">
+        </link>
+        <updated>2020-03-29T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机场那些事]]></title>
+        <id>https://x.yzzi.icu/post/FW/</id>
+        <link href="https://x.yzzi.icu/post/FW/">
+        </link>
+        <updated>2020-03-16T16:00:00.000Z</updated>
+    </entry>
+</feed>
